@@ -1,0 +1,29 @@
+Code Contributors
+=================
+
+Daniel Greenfeld*
+Brandon Konkle*
+
+* Possesses commit rights
+
+Code Contributors to pydanny/cookiecutter-django
+=================================================
+a7p
+Lukas Klein
+Ben Lopatin
+Bouke Haarsma
+Agam Dua
+Vitaly Babiy
+Tom Offermann
+Lyla Fischer
+Taylor Baldwin
+
+Special Thanks
+==============
+
+The following haven't provided code directly, but have provided guidance and advice.
+
+Audrey Roy (cookiecutter)
+Jannis Leidel (django-configurations)
+Nate Aune (advice and critique)
+Barry Morrison (advice and critique)
